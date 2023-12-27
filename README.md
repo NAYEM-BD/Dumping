@@ -1,5 +1,7 @@
 * Owner
-* Hannan AnSari
+* Hannan 
+* bypass by
+* nayem-bd
 
 ```
 rm -rf Dumping
